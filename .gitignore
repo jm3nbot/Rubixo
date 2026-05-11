@@ -1,0 +1,17 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+
+# Claude Code internals
+.claude/
+
+# Playwright artifacts
+.playwright-cli/
+
+# Output / build artifacts
+output/
+
+node_modules/
