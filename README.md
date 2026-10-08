@@ -2,6 +2,8 @@
 
 Rubixo is a browser-based cube simulator and guided solver for 3×3 and 2×2 cubes. Rotate a virtual cube, enter sticker colors, or scan a physical cube with a camera, then follow a move-by-move solution.
 
+![Rubixo Lab with an interactive 3×3 cube and appearance controls](docs/images/rubixo-lab.png)
+
 ## Features
 
 - Interactive 3D cube with mouse and touch controls.
